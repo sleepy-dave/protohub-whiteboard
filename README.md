@@ -24,7 +24,7 @@ A real-time collaborative whiteboard application built using Node.js, Express, a
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/protohub-whiteboard.git
+    git clone https://github.com/sleepy-dave/protohub-whiteboard.git
     cd protohub-whiteboard
     ```
 
@@ -91,4 +91,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project uses [Bootstrap](https://getbootstrap.com/) for styling.
 - The drawing functionality is inspired by various online collaborative whiteboard tools.
-
