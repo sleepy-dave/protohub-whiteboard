@@ -19,7 +19,7 @@ A real-time collaborative whiteboard application built using Node.js, Express, a
 
 - Node.js and npm installed on your machine.
 
-### Installation
+### Installation 
 
 1. Clone the repository:
 
