@@ -54,7 +54,7 @@ A real-time collaborative whiteboard application built using Node.js, Express, a
 ### Controls
 
 - **Clear Canvas**: Clears the entire canvas.
-- **Step Back**: Removes the last drawing step.
+- **Step Back**: Step back as current drawer.
 - **Color Buttons**: Change the color of the drawing tool.
 - **Line Width Slider**: Adjust the thickness of the drawing line.
 
