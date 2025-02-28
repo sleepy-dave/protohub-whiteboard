@@ -9,7 +9,6 @@ A real-time collaborative whiteboard application built using Node.js, Express, a
 - Real-time drawing synchronization across multiple users.
 - Drawing tools with different colors.
 - Clear canvas functionality.
-- Step back functionality to step back as a drawer and let others draw.
 - Enable and disable drawing privileges for users.
 - Simple and intuitive user interface.
 
